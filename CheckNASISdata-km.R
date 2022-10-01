@@ -1,6 +1,6 @@
 ##########Check NASIS Data in R
 ############ Most of this code is copied from .E. Beaudette's "Thematic Sketches Introduction to SoilProfileCollection Objects" chapter 10.4 "Thematic Sketches" 
-# which can be found at http://ncss-tech.github.io/AQP/aqp/aqp-intro.html
+# this can be found at http://ncss-tech.github.io/AQP/aqp/aqp-intro.html
 #I use this R script to check for blank spots while filling out data in NASIS.  It makes it very esy for me to see when I am missing somthing when there are colored soil profile results
 
 
